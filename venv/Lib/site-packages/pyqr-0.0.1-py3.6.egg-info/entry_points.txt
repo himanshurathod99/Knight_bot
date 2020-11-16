@@ -1,0 +1,5 @@
+
+[console_scripts]
+# script_name = pyqr.module:function
+# For example:
+# fibonacci = pyqr.skeleton:run
