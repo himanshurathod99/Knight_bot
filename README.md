@@ -1,2 +1,2 @@
 # Knight_bot
-hello ji
+2D Platformer game made in python and pygame
