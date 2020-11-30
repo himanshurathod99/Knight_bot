@@ -6,7 +6,7 @@ import random
 
 pygame.init()
 window = pygame.display.set_mode((405,304))#width and lenght for window
-pygame.display.set_caption("Sahil the Knight")#title for heading of pygame window
+pygame.display.set_caption("Knight Bot")#title for heading of pygame window
 right = [pygame.image.load("image/k1.png"),pygame.image.load("image/k2.png"),pygame.image.load("image/k3.png"),pygame.image.load("image/k4.png"),pygame.image.load("image/k5.png"),pygame.image.load("image/k6.png"),pygame.image.load("image/k7.png"),pygame.image.load("image/k8.png")]
 left = [pygame.image.load("image/k9.png"), pygame.image.load("image/k10.png"), pygame.image.load("image/k11.png"),pygame.image.load("image/k12.png"), pygame.image.load("image/k13.png"), pygame.image.load("image/k14.png"),pygame.image.load("image/k15.png"), pygame.image.load("image/k16.png")]
 bg = [pygame.image.load("bg/10.png"),pygame.image.load("bg/6.png"),pygame.image.load("bg/4.png"),pygame.image.load("bg/6.png"),pygame.image.load("bg/3.png"),pygame.image.load("bg/5.png"),pygame.image.load("bg/3.png"),pygame.image.load("bg/5.png")]
